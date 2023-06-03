@@ -1,0 +1,52 @@
+[
+    {
+        "pid":200,
+        "product_name":"Ethnic Wear",
+        "price":345,
+        "Quantity":400,
+        "Brand":"Adidas"
+    },
+    {
+        "pid":101,
+        "product_name":"Casual Wear",
+        "price":345,
+        "Quantity":400,
+        "Brand":"Adidas"
+    },
+    {
+        "pid":102,
+        "product_name":"Kurti's",
+        "price":500,
+        "Quantity":500,
+        "Brand":"Max"
+    },
+    {
+        "pid":103,
+        "product_name":"t-shirts",
+        "price":650,
+        "Quantity":200,
+        "Brand":"Nike"
+    },
+    {
+        "pid":104,
+        "product_name":"kids wear",
+        "price":890,
+        "Quantity":320,
+        "Brand":"nykaa"
+    },
+    {
+        "pid":106,
+        "product_name":"party Wear",
+        "price":1000,
+        "Quantity":400,
+        "Brand":"Ajio"
+    },
+    {
+        "pid":107,
+        "product_name":"Men's Wear",
+        "price":550,
+        "Quantity":600,
+        "Brand":"Adidas"
+    }
+
+]
